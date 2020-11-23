@@ -1,0 +1,16 @@
+{
+  "name": "JavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fabric.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "darkroom"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "darkroom": "^2.0.0"
+  }
+}
