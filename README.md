@@ -2,4 +2,4 @@
 
 Small tool help user to resize images more conveniently
 
-![](image/demo.jpg)
+![](image/demo.JPG)
